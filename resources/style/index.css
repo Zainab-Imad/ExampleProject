@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    height: 50px;
+    padding: 30px;
+    border-bottom: 1px solid #ddd;
+
+}
+.logo {
+    float: left;
+    margin-right: 600px;
+}
+.title{
+    float: left;
+    margin-right: 600px;
+}
+.btn{
+    float: left;
+}
+aside{
+    border-right: 1px solid #dddddd;
+    float: left;
+    padding: 20px;
+    height: auto;
+    width: 150px;
+}
+ul{
+    list-style: none;
+}
+section{
+    height: auto;
+    border-bottom: 1px solid #dddddd;
+}
+article{
+    height: 200px;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+article img{
+    float: left;
+    margin-right: 20px;
+}
+article p {
+    text-align: justify;
+}
+article form {
+    float: left;
+    margin-right: 100px;
+}
+form .groupForm{
+    margin-bottom: 20px;
+}
+.groupForm label{
+    padding: 10px;
+}
+footer p {
+    text-align: center;
+}
